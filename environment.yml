@@ -1,0 +1,5 @@
+name: seistools
+channels:
+  - conda-forge
+dependencies:
+  - numpy
