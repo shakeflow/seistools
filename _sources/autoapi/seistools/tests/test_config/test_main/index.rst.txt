@@ -1,0 +1,34 @@
+:py:mod:`seistools.tests.test_config.test_main`
+===============================================
+
+.. py:module:: seistools.tests.test_config.test_main
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   seistools.tests.test_config.test_main.func
+   seistools.tests.test_config.test_main.test_answer
+   seistools.tests.test_config.test_main.test_load_raw
+   seistools.tests.test_config.test_main.test_tt
+
+
+
+.. py:function:: func(x)
+
+
+.. py:function:: test_answer()
+
+
+.. py:function:: test_load_raw()
+
+
+.. py:function:: test_tt()
+
+
